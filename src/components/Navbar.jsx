@@ -10,14 +10,14 @@ const Navbar = ({ onBackToHome, showBackButton }) => {
   const handleAboutClick = () => {
     toast({
       title: "About",
-      description: "🚧 This feature isn't implemented yet—but don't worry! You can request it in your next prompt! 🚀"
+       
     });
   };
 
   const handleDataSourcesClick = () => {
     toast({
       title: "Data Sources",
-      description: "🚧 This feature isn't implemented yet—but don't worry! You can request it in your next prompt! 🚀"
+      
     });
   };
 

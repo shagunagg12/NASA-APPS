@@ -22,7 +22,7 @@ const Footer = () => {
           </div>
 
           <div>
-            <span className="font-semibold text-white">Data Sources</span>
+            <span className="font-semibold text-white"></span>
             <div className="mt-3 space-y-2">
               <a 
                 href="#" 
@@ -60,7 +60,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 mt-8 pt-6 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Asteroid Impact Simulator. Educational simulation for research and awareness purposes.
+            © 2025 Asteroid Impact Simulator. Powered by curiosity, built to protect our future — NASA Apps Prototype.
           </p>
         </div>
       </div>
